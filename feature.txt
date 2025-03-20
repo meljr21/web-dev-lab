@@ -1,0 +1,2 @@
+from this lab I have learnt to write html code and  how to get the web environment set up for web development.
+I have also managed to get a thorouugh view of github and its amazing features and how exchanging ideas has speedup the lab set up process
